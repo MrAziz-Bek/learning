@@ -1,0 +1,17 @@
+Data-Types Arduino
+
+declaration form: "data-type variable-name;" or "data-type variable-name = somevalue"
+
+------------- | ------- | ------------------------------ | ---------- |
+ Name         | Size    | Range                          | Definition |
+_____________ | _______ | ______________________________ | __________ |
+boolean       | 1 byte  | 0 - 1                          |            |
+char          | 1 byte  | -128 - 127                     |            |
+byte          | 1 byte  | 0 - 255                        |            |
+int           | 2 bytes | -32768 - 32767                 |            |
+unsigned int  | 2 bytes | 0 - 65535                      |            |
+word          | 2 bytes | 0 - 65535                      |            |
+long          | 4 bytes | -2147483648 - 2147483647       |            |
+unsigned long | 4 bytes | 0 - 4294967296                 |            |
+float         | 4 bytes | -3.4028235E+38 - 3.4028235E+38 |            |
+double        | 4 bytes | -3.4028235E+38 - 3.4028235E+38 |            |

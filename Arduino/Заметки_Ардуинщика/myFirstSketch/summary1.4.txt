@@ -1,0 +1,3 @@
+declare constant: const <type> <name> = <value>
+
+declare constant with define: <name> <value>
