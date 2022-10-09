@@ -21,8 +21,8 @@
   - Container elements
   - Structural elements
 ---
-- [Languages and Tools of Web Development](languages-and-tools-of-web-development.md)
-- [How the web works](how-web-works.md)
+- [Languages and Tools of Web Development](doc/languages-and-tools-of-web-development.md)
+- [How the web works](doc/how-web-works.md)
 - Validating web pages:
   - HTML: https://validator.w3.org
   - CSS: https://jigsaw.w3.org/css-validator
