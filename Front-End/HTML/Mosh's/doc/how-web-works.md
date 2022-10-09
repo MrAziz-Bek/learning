@@ -1,0 +1,18 @@
+# How the web works
+- http://codewithmosh.com -> URL (Uniform Resource Location)
+---
+- Resources:
+  - Web pages (HTML documents)
+  - Images
+  - Video files
+  - Fonts
+  - etc.
+---
+- HTTP
+  - Hypertext Transfer Protocol
+- HTTPS
+  - HTTP + Encryption
+---
+- DOM
+  - Document Object Model
+  - DOM - это независящий от платформы и языка программный интерфейс, позволяющий программам и скриптам получить доступ к содержимому HTML-, XHTML- и XML-документов, а также изменять содержимое, структуру и оформление таких документов.

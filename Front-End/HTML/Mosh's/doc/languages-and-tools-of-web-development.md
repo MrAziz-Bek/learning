@@ -1,0 +1,18 @@
+# Languages and Tools of Web Development
+- HTML
+  - Hypertext Markup Language
+  - Markup Language
+- CSS
+  - Cascading Stylesheet
+  - Styling Language
+- Javascript
+  - jic: js is used adding functionality of web pages
+  - Programming Language
+---
+- Version Control Systems:
+  - Track our project history
+  - Work collaboratively with others
+- Types of Version Control Systems:
+  - **Git**
+  - Subversion (SVN)
+  - Mercurial

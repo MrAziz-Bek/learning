@@ -1,0 +1,30 @@
+# HTML Tutorial For Beginners
+
+- **What you need**
+  - Code Editor (IDE): Visual Studio Code
+  - Extension: Prettier
+  - Extension (Server): Live Server
+  - Browser: View and Test webpages
+---
+- [You'll learn-1](learn1)
+  - The languages & tools of web development
+  - Key concepts (eg URL, HTTP, DOM, etc)
+  - How websites work
+  - Basics of HTML & CSS
+  - Validating web pages
+---
+- [You'll learn-2](learn2)
+  - Text
+  - Links
+  - Images
+  - Lists & Tables
+  - Container elements
+  - Structural elements
+---
+- [Languages and Tools of Web Development](languages-and-tools-of-web-development.md)
+- [How the web works](how-web-works.md)
+- Validating web pages:
+  - HTML: https://validator.w3.org
+  - CSS: https://jigsaw.w3.org/css-validator
+---
+- Mosh's Video Tutorial: https://youtu.be/qz0aGYrrlhU
